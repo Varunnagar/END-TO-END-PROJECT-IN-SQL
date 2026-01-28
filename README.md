@@ -7,7 +7,7 @@ insights.
 - Customers (customer_id, name, email, city, country)
 - Orders (order_id, customer_id, book_id, quantity, order_date)
 - ## Technology Used
-- - PostgreSQL 17
+- PostgreSQL 17
 - pgAdmin 4
 - SQL
 - ## Steps/Workflow
