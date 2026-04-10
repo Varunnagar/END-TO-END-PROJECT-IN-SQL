@@ -11,7 +11,7 @@ insights.
 - pgAdmin 4
 - SQL
 - ## Steps/Workflow
-- 1. Database design (schema + ER diagram).
+1. Database design (schema + ER diagram).
 2. Created tables and added constraints.
 3. Imported data from CSV files.
 4. Performed queries for:
